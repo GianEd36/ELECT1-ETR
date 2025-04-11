@@ -1,30 +1,30 @@
-1.	End Users
-    Admin
-    Customer
-    Guest (non-logged-in visitor)
-2.	Admin Features
-    Dashboard
-    CRUD for Products (create, read, update, delete)
-    CRUD for Categories
-    Manage Orders (view, update status)
-    Manage Users
-    View Reports (sales, inventory, top-selling products)
-    Set Discounts
-3.	Customer Features
-    Register/Login
-    View Products and Categories
-    Search and Filter Products
-    View Product Details
-    Add to Cart
-    Checkout Process
-    Apply Coupons/Discounts
-    Order Confirmation and Tracking
-    Order History
-    Leave Product Reviews
-    Update Profile & Password
-4.	Guest Features
-    Search Products
-    Add to Cart (Session-Based)
-    Prompt to Login/Register on Checkout
-    View Static Pages (About, Contact, FAQs, etc.)
-    View Products and Categories
+1.	End Users<br>
+    Admin<br>
+    Customer<br>
+    Guest (non-logged-in visitor)<br>
+2.	Admin Features<br>
+    Dashboard<br>
+    CRUD for Products (create, read, update, delete)<br>
+    CRUD for Categories<br>
+    Manage Orders (view, update status)<br>
+    Manage Users<br>
+    View Reports (sales, inventory, top-selling products)<br>
+    Set Discounts<br>
+3.	Customer Features<br>
+    Register/Login<br>
+    View Products and Categories<br>
+    Search and Filter Products<br>
+    View Product Details<br>
+    Add to Cart<br>
+    Checkout Process<br>
+    Apply Coupons/Discounts<br>
+    Order Confirmation and Tracking<br>
+    Order History<br>
+    Leave Product Reviews<br>
+    Update Profile & Password<br>
+4.	Guest Features<br>
+    Search Products<br>
+    Add to Cart (Session-Based)<br>
+    Prompt to Login/Register on Checkout<br>
+    View Static Pages (About, Contact, FAQs, etc.)<br>
+    View Products and Categories<br>
